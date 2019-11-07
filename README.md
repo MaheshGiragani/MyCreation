@@ -1,6 +1,6 @@
 # MyCreation
 
-HTML, CSS Javascript amd vuejs project development using GITHUB cloud 
+HTML, CSS, JavaScript and Vuejs project development using GITHUB cloud 
 
 
              ~ Mahesh Girgani
