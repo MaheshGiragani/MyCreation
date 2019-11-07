@@ -11,9 +11,9 @@
 
     <!-- <p>footer blog below writting code</p> -->
 
-    <b-container class="cart-bg">
+    <b-container class="bg3">
       <b-row>
-        <b-col sm="6" offset="4" class="potato-banner">
+        <b-col sm="6" offset="4" class="footerimg">
           <b-nav>
             <b-nav-item>
               <img src="../assets/mashedPotato.jpg" width="150" height="90" />
@@ -89,9 +89,7 @@ export default {
 <style  scoped>
 .maindiv {
   width: 90%;
-  /* border: 1px solid red; */
-  margin: 0 auto;
-  /* display: flex; */
+ 
 }
 
 .bg2 {
@@ -109,7 +107,7 @@ export default {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.cart-bg {
+.bg3 {
   background-image: url("../assets/blackimg.png");
   height: auto;
   background-position: center;
@@ -124,13 +122,8 @@ export default {
   left: 60px;
   font-size: 30px;
 }
-.smallimg1 {
-  display: flex;
-}
-.smallimg2 {
-  display: flex;
-}
-.potato-banner {
+
+.footerimg {
   padding: 20px;
 }
 .text {
